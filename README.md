@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myoung121
+- 👋 Hi, I’m L
 - 👀 I’m interested in Python Programming / Data Analytics / AI
 - 🌱 I’m currently learning Cyber Security / Intermediate Python Skills
 <!---
